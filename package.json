@@ -5,7 +5,7 @@
   "description": "Add a text label to your Firefox icons in OS X",
   "author": "jflim",
   "license": "MPL 2.0",
-  "version": "0.1",
+  "version": "0.2",
   "preferences": [{
     "name": "labelText",
     "title": "Label",
