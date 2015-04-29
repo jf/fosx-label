@@ -1,0 +1,15 @@
+{
+  "name": "fosx-label",
+  "title": "fosx-label",
+  "id": "jid1-tU3d0UBngIvzcQ",
+  "description": "Overlays a custom string on the Firefox icon",
+  "author": "jflim",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "preferences": [{
+    "name": "badgeText",
+    "title": "Badge Text",
+    "type": "string",
+    "value": ""
+  }]
+}
