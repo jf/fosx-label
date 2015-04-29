@@ -2,7 +2,7 @@
   "name": "fosx-label",
   "title": "fosx-label",
   "id": "jid1-tU3d0UBngIvzcQ",
-  "description": "Overlays a custom string on the Firefox icon",
+  "description": "Add a text label to your Firefox icons in OS X",
   "author": "jflim",
   "license": "MPL 2.0",
   "version": "0.1",
