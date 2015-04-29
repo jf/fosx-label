@@ -1,14 +1,14 @@
 {
   "name": "fosx-label",
-  "title": "fosx-label",
+  "title": "Firefox-on-OS-X Label",
   "id": "jid1-tU3d0UBngIvzcQ",
   "description": "Add a text label to your Firefox icons in OS X",
   "author": "jflim",
   "license": "MPL 2.0",
   "version": "0.1",
   "preferences": [{
-    "name": "badgeText",
-    "title": "Badge Text",
+    "name": "labelText",
+    "title": "Label",
     "type": "string",
     "value": ""
   }]
